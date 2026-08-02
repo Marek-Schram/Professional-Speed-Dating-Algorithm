@@ -4,7 +4,8 @@ A template for a pre-career-fair matching event: recruiters and students each fi
 form, and a matching engine turns those responses into a full event plan, printable
 student cards, printable recruiter rosters, and a room map, without anyone manually
 pairing people up. Originally built for a single fraternity chapter at Missouri S&T, this
-repo is set up so any student org, department, or career center can adapt it.
+repo is set up so any student org, department, or career center can adapt it. (Make sure to
+unzip the recruiter-night-repo.zip before starting)
 
 Full plain-language write-up: [`docs/Recruiter_Night_System_Overview.pdf`](docs/Recruiter_Night_System_Overview.pdf).
 
